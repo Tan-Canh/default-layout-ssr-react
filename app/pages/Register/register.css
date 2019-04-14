@@ -1,0 +1,38 @@
+.container-register {
+    background: #dad8d894;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+}
+
+.btn-facebook {
+    background: #3B5998;
+    border-radius: 0;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #263961; 
+  }
+  .btn-facebook:link, .btn-facebook:visited {
+    color: #fff;
+  }
+  .btn-facebook:active, .btn-facebook:hover {
+    background: #263961;
+    color: #fff;
+  }
+
+  .btn-twitter {
+    background: #00ACEE;
+    border-radius: 0;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #0075a2;
+  }
+  .btn-twitter:link, .btn-twitter:visited {
+    color: #fff; 
+  }
+  .btn-twitter:active, .btn-twitter:hover {
+    background: #0075a2;
+    color: #fff; 
+  }

@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower');
+
+html, body{
+    height: 100%;
+    widows: 100%;
+    font-family: 'Gamja Flower';
+    font-size: 25;
+    color: #222
+}
